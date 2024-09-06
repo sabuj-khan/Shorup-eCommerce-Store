@@ -1,0 +1,1 @@
+<h2>Our OTP code is <span>{{$details['code']}}</span></h2>
